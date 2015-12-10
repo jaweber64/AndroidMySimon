@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysimonlib.mysimonlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysimonlib/build/libs/mysimonlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
